@@ -32,5 +32,6 @@ def nav_version = "2.3.4"
 
 You have to make res Directory navigation and menu in your android res, you can also get it from my Project
 
+navigation graph will be going to look like this
 
 
