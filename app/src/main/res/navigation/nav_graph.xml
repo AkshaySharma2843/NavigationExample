@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.na.navigationexample.FragmentHome"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/fragmentMusic"
+        android:name="com.na.navigationexample.FragmentMusic"
+        android:label="Music" />
+    <fragment
+        android:id="@+id/fragmentProfile"
+        android:name="com.na.navigationexample.FragmentProfile"
+        android:label="Profile" />
+</navigation>
