@@ -5,14 +5,14 @@
 
     <fragment
         android:id="@+id/fragmentHome"
-        android:name="com.na.navigationexample.FragmentHome"
+        android:name="com.na.navigationexample.fragment.FragmentHome"
         android:label="Home" />
     <fragment
         android:id="@+id/fragmentMusic"
-        android:name="com.na.navigationexample.FragmentMusic"
+        android:name="com.na.navigationexample.fragment.FragmentMusic"
         android:label="Music" />
     <fragment
         android:id="@+id/fragmentProfile"
-        android:name="com.na.navigationexample.FragmentProfile"
+        android:name="com.na.navigationexample.fragment.FragmentProfile"
         android:label="Profile" />
 </navigation>
