@@ -31,7 +31,10 @@ def nav_version = "2.3.4"
     implementation "androidx.navigation:navigation-compose:1.0.0-alpha09"
 
 You have to make res Directory navigation and menu in your android res, you can also get it from my Project
-
 navigation graph will be going to look like this
+
+![nav_graph](https://user-images.githubusercontent.com/54305068/111463124-3fee3100-8745-11eb-8784-0382937bf11c.PNG)
+
+you can add these fragment from new Destination option given in top left side.
 
 
