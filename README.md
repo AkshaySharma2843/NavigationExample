@@ -37,4 +37,6 @@ navigation graph will be going to look like this
 
 you can add these fragment from new Destination option given in top left side.
 
+![graph add destination](https://user-images.githubusercontent.com/54305068/111463653-d28ed000-8745-11eb-84bc-3e7a183906b3.PNG)
 
+Rest is available in the project.
